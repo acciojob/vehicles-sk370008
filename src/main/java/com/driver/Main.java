@@ -8,8 +8,9 @@ public class Main {
 //        mercedes.accelerate(-60);
 
 
+
         Car c1 = new Car("Udta teer",4,2,10,false,"F23",2);
         c1.changeGear(3);
-        c1.changeSpeed(-50,50);
+        c1.changeSpeed(50,50);
     }
 }
